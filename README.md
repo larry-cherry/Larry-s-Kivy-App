@@ -16,7 +16,7 @@ python main.py
 If you are on Windows you will need to do the following. Make sure python 3 is installed. Run the setup.bat file and then run the following commands.
 
 ```
-Scripts\activate.bat
+env\scripts\activate.bat
 python main.py
 ```
 
