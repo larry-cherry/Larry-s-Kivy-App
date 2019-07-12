@@ -22,6 +22,6 @@ python main.py
 
 ## Useful Project Resources
 
-[Kivy Docs](https://kivy.org/doc/stable/)
-[Pyinstaller Docs](https://pyinstaller.readthedocs.io/en/stable/index.html)
-[Kivy Crash Course](https://kivy.org/doc/stable/tutorials/crashcourse.html)
+- [Kivy Docs](https://kivy.org/doc/stable/)
+- [Pyinstaller Docs](https://pyinstaller.readthedocs.io/en/stable/index.html)
+- [Kivy Crash Course](https://kivy.org/doc/stable/tutorials/crashcourse.html)
